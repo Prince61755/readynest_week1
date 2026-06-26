@@ -1,0 +1,28 @@
+DESCRIPTIVE STATISTICS — Numeric Columns
+==================================================
+           age  quantity  price_per_unit  total_amount
+count  1000.00   1000.00         1000.00        1000.0
+mean     41.39      2.51          179.89         456.0
+std      13.68      1.13          189.68         560.0
+min      18.00      1.00           25.00          25.0
+25%      29.00      1.00           30.00          60.0
+50%      42.00      3.00           50.00         135.0
+75%      53.00      4.00          300.00         900.0
+max      64.00      4.00          500.00        2000.0
+
+Transactions by category:
+product_category
+Clothing       351
+Electronics    342
+Beauty         307
+
+Transactions by gender:
+gender
+Female    510
+Male      490
+
+Revenue by category:
+product_category
+Electronics    156905
+Clothing       155580
+Beauty         143515
